@@ -3,7 +3,7 @@
 	"_comment2" : "may be used in this JSON configuration file",
 
 	"url" : "stratum+tcp://coinotron.com:3334",
-	"user" : "__starrify__.laptop",
+	"user" : "__starrify__.test",
 	"pass" : "pengyu@GLaDOS",
 
 	"algo" : "scrypt",
